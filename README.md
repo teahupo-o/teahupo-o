@@ -1,9 +1,9 @@
-# Hi there, I'm Eda 👋 
+# Hi there, I'm Eda 
 
 ## I'm a Student 
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2023 Starting journey at 42 Prague 🥳
+-  I’m currently learning everything 
+-  2023 Starting journey at 42 Prague 
 
 
 ---
