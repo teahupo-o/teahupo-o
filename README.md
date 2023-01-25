@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![erut's 42 stats](https://badge42.vercel.app/api/v2/cldbi3rrx01590fml8u7x6p0l/stats?cursusId=21&coalitionId=313)](https://github.com/JaeSeoKim/badge42)
 <!--
 **teahupo-o/teahupo-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
