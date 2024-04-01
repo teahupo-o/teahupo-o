@@ -21,9 +21,7 @@
 ---
 
 ---
-### My progress at 42 Prague:
-[![erut's 42 stats](https://badge42.vercel.app/api/v2/cldbi3rrx01590fml8u7x6p0l/stats?cursusId=21&coalitionId=313)](https://github.com/JaeSeoKim/badge42)
----
+
 
 ### 📕 SOCIALS
 
